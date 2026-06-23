@@ -21,5 +21,7 @@ This repository contains the firmware for an interactive, audio-reactive LED vis
 * `/Core/Inc` - Header files and hardware abstraction configurations[cite: 4].
 * `CE224.ioc` - STM32CubeMX configuration file containing pinout and clock tree settings[cite: 4].
 
+Demo link 
+https://drive.google.com/file/d/10tn8bVEcqwVPmf9QI0IvC2CE0BbwYoNW/view?usp=drive_link
 ---
 *Developed and maintained by Ho Ngoc Thien Phuoc.*
